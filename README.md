@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://img.hb.aicdn.com/2672e34deaaf7e3b8930d7d44507ac0c55b1227121ff80-GwVA3q_fw658">
-    <img src="http://img.hb.aicdn.com/2672e34deaaf7e3b8930d7d44507ac0c55b1227121ff80-GwVA3q_fw658" width=520 height=520>
+    <img src="http://img.hb.aicdn.com/2672e34deaaf7e3b8930d7d44507ac0c55b1227121ff80-GwVA3q_fw658" width=206 height=356>
   </a>
 
   <h3 align="center">From Ning</h3>
